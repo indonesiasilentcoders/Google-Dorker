@@ -1,4 +1,6 @@
 #!/bin/bash
 clear
+apt install ruby
 apt install bash
 apt install figlet
+gem install lolcat
