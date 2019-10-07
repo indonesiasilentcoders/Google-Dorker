@@ -3,4 +3,5 @@ clear
 apt install ruby
 apt install bash
 apt install figlet
+apr install toilet
 gem install lolcat
